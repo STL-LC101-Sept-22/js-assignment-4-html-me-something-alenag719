@@ -82,13 +82,14 @@ button:hover {
 }
 
 
-#image img {
+#closingVideo {
     box-sizing: border-box;
     border: 1px solid black;
     clear: both;
-    width: 600px;
-}
+    width: 400px;
+    margin: 0 auto;
 
+}
 
 footer {
     clear: both;
